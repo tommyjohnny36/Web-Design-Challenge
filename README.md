@@ -5,8 +5,6 @@ I created individual pages for each plot and a means by which people can navigat
 
 ### Website Requirements
 
-For reference, see the ["Screenshots" section](#screenshots) below.
-
 The website consist of 7 pages total, including:
 
 * A [landing page](#landing-page) containing:
